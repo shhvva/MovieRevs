@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&family=Poppins&family=Quicksand&display=swap");
+/* whole app */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+
+/* Movie */
+.Movie_outerbox {
+  background: url("/public/assets/DefaultImage.jpg") center/cover no-repeat;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  justify-content: space-evenly;
+  color: #fff;
+}
+.Movie_title {
+  font-size: 2rem;
+  font-weight: 700;
+  display: grid;
+  place-items: center; /* Align content both horizontally and vertically to the center */
+  width: 100%;
+}
+.Movie_Option {
+  padding: 0.5rem;
+  font-size: 1.75rem;
+  font-weight: 400;
+  transition: 0.25s ease;
+}
+.Movie_Option:hover {
+  cursor: pointer;
+  font-size: 2.75rem;
+}
+#Movie_data {
+  font-size: 1.75rem;
+  padding: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+}
+
+/* SearchBar */
+.Searchbox_and_Res {
+  background-color: #fafffc;
+  height: 100vh;
+  overflow: hidden;
+}
+.Searchbox {
+  padding: 1%;
+  display: flex;
+  gap: 1%;
+  margin: 1%;
+  justify-content: space-between;
+}
+
+.Name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.web_logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.web_logo:hover {
+  cursor: pointer;
+}
+.Search_here {
+  height: 2.3rem;
+  background-color: #fff;
+  box-shadow: 0 12px 15px rgba(0, 0, 0, 0.1);
+  justify-content: space-around;
+}
+
+#uio1223 {
+  font-weight: bold;
+  color: #1e3527;
+  font-size: 1.3rem;
+}
+#Search_bar {
+  border: 1px solid #ddd;
+  height: 2.3rem;
+  width: 25rem;
+  background-color: #fff;
+  border-radius: 50px;
+  box-shadow: 0 12px 15px rgba(0, 0, 0, 0.1);
+  padding: 0 1rem; /* Add padding to ensure the text is not too close to the edges */
+}
+.movies_list {
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 5px;
+  font-size: 1.2rem;
+  transition: ease 0.3s;
+  border-radius: 8px;
+}
+.movies_list:hover {
+  cursor: pointer;
+  font-size: 1.5rem;
+  background-color: #294936;
+  color: white;
+}
+
+#MO {
+  width: 100px;
+}
+
+.Resultbox {
+  height: 70vh;
+}
