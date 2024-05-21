@@ -27,7 +27,7 @@ Additionally, it includes a search feature that allows users to search for movie
 
 ## Snapshots 📸
 
-<img src="https://media.licdn.com/dms/image/D562DAQHtUVUdUaMftA/profile-treasury-image-shrink_800_800/0/1706075762009?e=1716883200&v=beta&t=GL8dk7DfA2yENbPgt2DtbGW272Qzb4FzILMIiP1nyZY" alt="Movierevs" width="600" >
+<img src="https://media.licdn.com/dms/image/D562DAQFfiTecgnY_og/profile-treasury-image-shrink_800_800/0/1707225708594?e=1716886800&v=beta&t=SegOnhKWa3UupeKoJ4Yjfadd0e3X60EclD8AC9aMd1o" alt="Movierevs" width="600" >
 
 ## Usage 📖
 
