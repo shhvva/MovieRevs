@@ -10,6 +10,16 @@ Additionally, it includes a search feature that allows users to search for movie
 - Search functionality to find movies by title
 - State management and dynamic content rendering
 
+## Snapshots 📸
+
+1. Search Page
+
+![movie page](https://github.com/user-attachments/assets/0dfb8373-9286-46e8-b8df-5a1fcd938258)
+
+2. Search Page
+
+![Search Page](https://github.com/user-attachments/assets/1310ed52-94f3-49ab-b952-c5c9c046e7c8)
+
 ## Technologies Used 💻
 
 - React
@@ -24,10 +34,6 @@ Additionally, it includes a search feature that allows users to search for movie
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open the application in your browser: `http://localhost:3000`
-
-## Snapshots 📸
-
-<img src="https://media.licdn.com/dms/image/D562DAQFfiTecgnY_og/profile-treasury-image-shrink_800_800/0/1707225708594?e=1716886800&v=beta&t=SegOnhKWa3UupeKoJ4Yjfadd0e3X60EclD8AC9aMd1o" alt="Movierevs" width="600" >
 
 ## Usage 📖
 
